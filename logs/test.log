@@ -76,4 +76,27 @@ New type
 2022-07-13 14:32:21,398 CRITICAL Critical message bar
 2022-07-13 14:32:21,885 CRITICAL Critical message bar
 2022-07-13 14:32:21,885 CRITICAL Critical message bar [123]
-2022-07-13 14:32:21,885 CRITICAL Critical message bar [123]
+2022-07-13 14:32:21,885 CRITICAL Critical message bar [123]2022-07-13 14:49:13,654 CRITICAL Critical message
+2022-07-13 14:49:14,812 CRITICAL Critical message
+2022-07-13 14:49:28,177 ERROR Error message
+2022-07-13 14:49:28,177 WARNING Warning message
+2022-07-13 14:49:28,177 INFO Info message
+2022-07-13 14:49:28,177 ERROR Error message
+2022-07-13 14:49:28,177 INFO Info message
+2022-07-13 14:49:28,177 WARNING Warning message
+2022-07-13 14:49:28,177 ERROR Error message
+2022-07-13 14:49:28,177 WARNING Warning message
+2022-07-13 14:49:28,177 INFO Info message
+2022-07-13 14:49:28,177 ERROR Error message
+2022-07-13 14:49:28,177 CRITICAL Critical message
+2022-07-13 16:17:14,201 ERROR Error message
+2022-07-13 16:17:14,201 WARNING Warning message
+2022-07-13 16:17:14,201 INFO Info message
+2022-07-13 16:17:14,202 ERROR Error message
+2022-07-13 16:17:14,202 INFO Info message
+2022-07-13 16:17:14,202 WARNING Warning message
+2022-07-13 16:17:14,202 ERROR Error message
+2022-07-13 16:17:14,202 WARNING Warning message
+2022-07-13 16:17:14,202 INFO Info message
+2022-07-13 16:17:14,202 ERROR Error message
+2022-07-13 16:17:14,202 CRITICAL Critical message

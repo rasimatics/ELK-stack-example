@@ -17,12 +17,12 @@ def setup_logger(name: str, log_file: str, level, formatter):
 logger = setup_logger('test', r"C:\Users\Rasim\Desktop\Example app\logs\test.log", logging.INFO, formatter)
 
 
-# for i in range(10):
-#     if i % 3 == 0:
-#         logger.error("Error message")
-#     elif i % 2 == 0:
-#         logger.info("Info message")
-#     else:
-#         logger.warning("Warning message")
+for i in range(10):
+    if i % 3 == 0:
+        logger.error("Error message")
+    elif i % 2 == 0:
+        logger.info("Info message")
+    else:
+        logger.warning("Warning message")
 
 logger.critical("Critical message")
