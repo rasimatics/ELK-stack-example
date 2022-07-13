@@ -1,0 +1,79 @@
+2022-07-13 11:22:07,451 ERROR Hello, this an error
+2022-07-13 11:23:27,365 ERROR Hello, this an error
+2022-07-13 11:23:28,093 ERROR Hello, this an error
+New type
+2022-07-13 11:27:26,025 ERROR Hello, this an error
+2022-07-13 11:27:26,679 ERROR Hello, this an error
+2022-07-13 11:28:36,205 ERROR Hello, this an error
+2022-07-13 11:28:36,705 ERROR Hello, this an error
+2022-07-13 11:28:37,164 ERROR Hello, this an error
+2022-07-13 11:29:58,635 ERROR Hello, this an error
+2022-07-13 11:31:43,487 ERROR Hello, this an error
+2022-07-13 11:31:44,072 ERROR Hello, this an error
+2022-07-13 11:31:44,630 ERROR Hello, this an error
+2022-07-13 11:32:54,245 ERROR Hello, this an error
+2022-07-13 11:32:54,670 ERROR Hello, this an error
+2022-07-13 11:32:55,089 ERROR Hello, this an error
+2022-07-13 11:37:01,610 ERROR Hello, this an error
+2022-07-13 11:37:02,386 ERROR Hello, this an error
+2022-07-13 11:37:02,894 ERROR Hello, this an error
+2022-07-13 11:37:03,390 ERROR Hello, this an error
+2022-07-13 11:39:13,450 ERROR Hello, this an error
+2022-07-13 11:39:13,858 ERROR Hello, this an error
+2022-07-13 11:39:14,532 ERROR Hello, this an error
+2022-07-13 11:39:41,501 ERROR Hello, this an error
+2022-07-13 11:39:42,146 ERROR Hello, this an error
+2022-07-13 11:40:19,385 ERROR Hello this an error
+2022-07-13 11:40:19,916 ERROR Hello this an error
+2022-07-13 11:40:20,397 ERROR Hello this an error
+2022-07-13 11:41:18,603 ERROR Hello this an error
+2022-07-13 11:41:19,088 ERROR Hello this an error
+2022-07-13 11:41:19,510 ERROR Hello this an error
+2022-07-13 11:43:25,926 ERROR Hello this an error
+2022-07-13 11:43:26,606 ERROR Hello this an error
+2022-07-13 11:43:27,206 ERROR Hello this an error
+2022-07-13 11:43:27,740 ERROR Hello this an error
+2022-07-13 11:45:44,804 ERROR Hello this an error
+2022-07-13 11:45:45,521 ERROR Hello this an error
+2022-07-13 11:49:57,477 ERROR Hello this an error
+2022-07-13 11:49:57,997 ERROR Hello this an error
+2022-07-13 11:49:58,443 ERROR Hello this an error
+2022-07-13 11:49:58,906 ERROR Hello this an error
+2022-07-13 11:52:12,683 ERROR Hello this an error
+2022-07-13 11:52:13,217 ERROR Hello this an error
+2022-07-13 11:54:09,341 ERROR Hello this an error
+2022-07-13 11:54:10,060 ERROR Hello this an error
+2022-07-13 11:54:11,375 ERROR Hello this an error
+2022-07-13 11:56:09,415 ERROR Updated this an error
+2022-07-13 11:56:10,241 ERROR Updated this an error
+2022-07-13 11:56:10,801 ERROR Updated this an error
+2022-07-13 11:56:11,300 ERROR Updated this an error
+2022-07-13 12:32:25,264 ERROR Updated this an error
+2022-07-13 12:32:25,264 WARNING Test warning
+2022-07-13 12:32:25,264 INFO Test info
+2022-07-13 12:32:25,264 ERROR Updated this an error
+2022-07-13 12:32:25,264 INFO Test info
+2022-07-13 12:32:25,264 WARNING Test warning
+2022-07-13 12:32:25,264 ERROR Updated this an error
+2022-07-13 12:32:25,264 WARNING Test warning
+2022-07-13 12:32:25,264 INFO Test info
+2022-07-13 12:32:25,264 ERROR Updated this an error
+2022-07-13 14:24:22,394 ERROR Error message
+2022-07-13 14:24:22,394 WARNING Warning message
+2022-07-13 14:24:22,394 INFO Info message
+2022-07-13 14:24:22,394 ERROR Error message
+2022-07-13 14:24:22,394 INFO Info message
+2022-07-13 14:24:22,394 WARNING Warning message
+2022-07-13 14:24:22,394 ERROR Error message
+2022-07-13 14:24:22,394 WARNING Warning message
+2022-07-13 14:24:22,394 INFO Info message
+2022-07-13 14:24:22,394 ERROR Error message
+2022-07-13 14:27:17,177 INFO Debug message
+2022-07-13 14:29:20,882 CRITICAL Critical message
+2022-07-13 14:30:55,249 CRITICAL Critical message
+2022-07-13 14:30:56,006 CRITICAL Critical message
+2022-07-13 14:32:18,963 CRITICAL Critical message bar
+2022-07-13 14:32:21,398 CRITICAL Critical message bar
+2022-07-13 14:32:21,885 CRITICAL Critical message bar
+2022-07-13 14:32:21,885 CRITICAL Critical message bar [123]
+2022-07-13 14:32:21,885 CRITICAL Critical message bar [123]

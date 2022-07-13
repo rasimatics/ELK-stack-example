@@ -1,0 +1,84 @@
+version: "3"
+
+services: 
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.10.0
+    environment: 
+      - discovery.type=single-node
+      - xpack.security.enabled=true
+      - ELASTIC_PASSWORD=changeme
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    stdin_open: true
+    tty: true
+
+  logstash:
+    image: docker.elastic.co/logstash/logstash:7.10.0
+    depends_on: 
+      - elasticsearch
+    ports:
+      - "5044:5044"
+    environment: 
+      - http.host="0.0.0.0"
+      - xpack.monitoring.elasticsearch.hosts=["http://elasticsearch:9200"]
+      - xpack.monitoring.enabled=false
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+    volumes:
+      - ./logstash:/logstash_dir
+    command: logstash -f /logstash_dir/logstash.conf --config.reload.automatic
+    stdin_open: true
+    tty: true
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:7.10.0
+    depends_on:
+      - logstash
+      - elasticsearch
+    ports: 
+      - "5601:5601"
+    volumes:
+      - ./kibana.yml:/usr/share/kibana/config/kibana.yml
+#      - ./kibana-server.p12:/usr/share/kibana/config/kibana-server.p12
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=true
+      - ELASTIC_PASSWORD=changeme
+      - xpack.encryptedSavedObjects.encryptionKey=123456789012345678901234567890123
+      - xpack.actions.allowedHosts=[*]
+      - xpack.actions.enabledActionTypes=[*]
+
+    stdin_open: true
+    tty: true
+  
+  filebeat:
+    user: root
+    image: "docker.elastic.co/beats/filebeat:7.10.0"
+    volumes:
+      # Mount the filebeat configuration so users can make edit
+      - ./filebeat.yml:/usr/share/filebeat/filebeat.yml.orig
+      # Mount the logs into the filebeat container so we can access and
+      # index them using the correspondent filebeat module
+      - logs:/var/log/
+      # Named volume fsdata. This is used to persist the registry file
+      # between restarts, so to avoid data duplication
+      # - ./data:/usr/share/filebeat/data/
+    command: bash -c "cp -fR /usr/share/filebeat/filebeat.yml.orig /usr/share/filebeat/filebeat.yml && chmod go-w /usr/share/filebeat/filebeat.yml && filebeat -e -E -strict.perms=false" --config.reload.automatic
+    restart: always
+    depends_on:
+      # wait for the these services to come up. This ensures the logs are
+      # available and ES exists for indexing
+      - elasticsearch
+      - logstash
+    stdin_open: true
+    tty: true
+
+
+volumes:
+  logs:
+    driver: local
+    driver_opts:
+      type: none
+      device: ./logs/
+      o: bind
