@@ -91,3 +91,11 @@ Info Hello warning,nginx POST /signup 200
 Info Hello warning,nginx POST /signup 200
 Info Hello warning,nginx POST /signup 200
 Info Hello warning,nginx POST /signup 200
+Info Hello warning,nginx POST /signup 200
+Warning Hello warning,nginx POST /signup 400
+Error Hello warning,nginx POST /signup 404
+Error Hello warning,nginx POST /signup 404
+Warning Test warning,nginx POST /signup 500
+Warning Test warning,nginx GET /signup 500
+Warning Test warning,nginx GET /signup 500
+Warning Test warning,nginx GET /signup 500

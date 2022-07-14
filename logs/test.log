@@ -100,3 +100,370 @@ New type
 2022-07-13 16:17:14,202 INFO Info message
 2022-07-13 16:17:14,202 ERROR Error message
 2022-07-13 16:17:14,202 CRITICAL Critical message
+2022-07-14 09:13:23,281 ERROR Error message
+2022-07-14 09:13:23,281 WARNING Warning message
+2022-07-14 09:13:23,281 INFO Info message
+2022-07-14 09:13:23,281 ERROR Error message
+2022-07-14 09:13:23,281 INFO Info message
+2022-07-14 09:13:23,281 WARNING Warning message
+2022-07-14 09:13:23,281 ERROR Error message
+2022-07-14 09:13:23,281 WARNING Warning message
+2022-07-14 09:13:23,281 INFO Info message
+2022-07-14 09:13:23,281 ERROR Error message
+2022-07-14 09:13:23,281 CRITICAL Critical message
+2022-07-14 09:13:28,763 ERROR Error message
+2022-07-14 09:13:28,763 WARNING Warning message
+2022-07-14 09:13:28,763 INFO Info message
+2022-07-14 09:13:28,763 ERROR Error message
+2022-07-14 09:13:28,763 INFO Info message
+2022-07-14 09:13:28,763 WARNING Warning message
+2022-07-14 09:13:28,763 ERROR Error message
+2022-07-14 09:13:28,763 WARNING Warning message
+2022-07-14 09:13:28,763 INFO Info message
+2022-07-14 09:13:28,763 ERROR Error message
+2022-07-14 09:13:28,763 CRITICAL Critical message
+2022-07-14 09:34:31,654 ERROR Error message
+2022-07-14 09:34:31,654 WARNING Warning message
+2022-07-14 09:34:31,654 INFO Info message
+2022-07-14 09:34:31,654 ERROR Error message
+2022-07-14 09:34:31,654 INFO Info message
+2022-07-14 09:34:31,654 WARNING Warning message
+2022-07-14 09:34:31,654 ERROR Error message
+2022-07-14 09:34:31,654 WARNING Warning message
+2022-07-14 09:34:31,654 INFO Info message
+2022-07-14 09:34:31,654 ERROR Error message
+2022-07-14 09:34:31,654 CRITICAL Critical message
+2022-07-14 09:34:32,096 ERROR Error message
+2022-07-14 09:34:32,097 WARNING Warning message
+2022-07-14 09:34:32,097 INFO Info message
+2022-07-14 09:34:32,097 ERROR Error message
+2022-07-14 09:34:32,097 INFO Info message
+2022-07-14 09:34:32,097 WARNING Warning message
+2022-07-14 09:34:32,097 ERROR Error message
+2022-07-14 09:34:32,097 WARNING Warning message
+2022-07-14 09:34:32,097 INFO Info message
+2022-07-14 09:34:32,097 ERROR Error message
+2022-07-14 09:34:32,097 CRITICAL Critical message
+2022-07-14 09:34:32,579 ERROR Error message
+2022-07-14 09:34:32,580 WARNING Warning message
+2022-07-14 09:34:32,580 INFO Info message
+2022-07-14 09:34:32,580 ERROR Error message
+2022-07-14 09:34:32,580 INFO Info message
+2022-07-14 09:34:32,580 WARNING Warning message
+2022-07-14 09:34:32,580 ERROR Error message
+2022-07-14 09:34:32,580 WARNING Warning message
+2022-07-14 09:34:32,580 INFO Info message
+2022-07-14 09:34:32,580 ERROR Error message
+2022-07-14 09:34:32,580 CRITICAL Critical message
+2022-07-14 09:34:33,049 ERROR Error message
+2022-07-14 09:34:33,049 WARNING Warning message
+2022-07-14 09:34:33,049 INFO Info message
+2022-07-14 09:34:33,049 ERROR Error message
+2022-07-14 09:34:33,049 INFO Info message
+2022-07-14 09:34:33,049 WARNING Warning message
+2022-07-14 09:34:33,049 ERROR Error message
+2022-07-14 09:34:33,049 WARNING Warning message
+2022-07-14 09:34:33,049 INFO Info message
+2022-07-14 09:34:33,049 ERROR Error message
+2022-07-14 09:34:33,049 CRITICAL Critical message
+2022-07-14 09:34:33,481 ERROR Error message
+2022-07-14 09:34:33,481 WARNING Warning message
+2022-07-14 09:34:33,481 INFO Info message
+2022-07-14 09:34:33,481 ERROR Error message
+2022-07-14 09:34:33,481 INFO Info message
+2022-07-14 09:34:33,481 WARNING Warning message
+2022-07-14 09:34:33,481 ERROR Error message
+2022-07-14 09:34:33,481 WARNING Warning message
+2022-07-14 09:34:33,481 INFO Info message
+2022-07-14 09:34:33,482 ERROR Error message
+2022-07-14 09:34:33,482 CRITICAL Critical message
+2022-07-14 09:34:33,920 ERROR Error message
+2022-07-14 09:34:33,920 WARNING Warning message
+2022-07-14 09:34:33,920 INFO Info message
+2022-07-14 09:34:33,920 ERROR Error message
+2022-07-14 09:34:33,920 INFO Info message
+2022-07-14 09:34:33,920 WARNING Warning message
+2022-07-14 09:34:33,920 ERROR Error message
+2022-07-14 09:34:33,920 WARNING Warning message
+2022-07-14 09:34:33,920 INFO Info message
+2022-07-14 09:34:33,920 ERROR Error message
+2022-07-14 09:34:33,920 CRITICAL Critical message
+2022-07-14 09:34:34,368 ERROR Error message
+2022-07-14 09:34:34,368 WARNING Warning message
+2022-07-14 09:34:34,368 INFO Info message
+2022-07-14 09:34:34,368 ERROR Error message
+2022-07-14 09:34:34,368 INFO Info message
+2022-07-14 09:34:34,368 WARNING Warning message
+2022-07-14 09:34:34,368 ERROR Error message
+2022-07-14 09:34:34,368 WARNING Warning message
+2022-07-14 09:34:34,368 INFO Info message
+2022-07-14 09:34:34,368 ERROR Error message
+2022-07-14 09:34:34,368 CRITICAL Critical message
+2022-07-14 09:34:34,838 ERROR Error message
+2022-07-14 09:34:34,838 WARNING Warning message
+2022-07-14 09:34:34,838 INFO Info message
+2022-07-14 09:34:34,838 ERROR Error message
+2022-07-14 09:34:34,838 INFO Info message
+2022-07-14 09:34:34,838 WARNING Warning message
+2022-07-14 09:34:34,838 ERROR Error message
+2022-07-14 09:34:34,838 WARNING Warning message
+2022-07-14 09:34:34,838 INFO Info message
+2022-07-14 09:34:34,838 ERROR Error message
+2022-07-14 09:34:34,838 CRITICAL Critical message
+2022-07-14 09:34:35,667 ERROR Error message
+2022-07-14 09:34:35,667 WARNING Warning message
+2022-07-14 09:34:35,667 INFO Info message
+2022-07-14 09:34:35,667 ERROR Error message
+2022-07-14 09:34:35,667 INFO Info message
+2022-07-14 09:34:35,667 WARNING Warning message
+2022-07-14 09:34:35,667 ERROR Error message
+2022-07-14 09:34:35,667 WARNING Warning message
+2022-07-14 09:34:35,667 INFO Info message
+2022-07-14 09:34:35,668 ERROR Error message
+2022-07-14 09:34:35,668 CRITICAL Critical message
+2022-07-14 09:34:36,812 ERROR Error message
+2022-07-14 09:34:36,812 WARNING Warning message
+2022-07-14 09:34:36,812 INFO Info message
+2022-07-14 09:34:36,812 ERROR Error message
+2022-07-14 09:34:36,813 INFO Info message
+2022-07-14 09:34:36,813 WARNING Warning message
+2022-07-14 09:34:36,813 ERROR Error message
+2022-07-14 09:34:36,813 WARNING Warning message
+2022-07-14 09:34:36,813 INFO Info message
+2022-07-14 09:34:36,813 ERROR Error message
+2022-07-14 09:34:36,813 CRITICAL Critical message
+2022-07-14 09:38:48,280 ERROR Error message
+2022-07-14 09:38:48,280 WARNING Warning message
+2022-07-14 09:38:48,281 INFO Info message
+2022-07-14 09:38:48,281 ERROR Error message
+2022-07-14 09:38:48,281 INFO Info message
+2022-07-14 09:38:48,281 WARNING Warning message
+2022-07-14 09:38:48,281 ERROR Error message
+2022-07-14 09:38:48,281 WARNING Warning message
+2022-07-14 09:38:48,281 INFO Info message
+2022-07-14 09:38:48,281 ERROR Error message
+2022-07-14 09:38:48,281 CRITICAL Critical message
+2022-07-14 09:38:48,744 ERROR Error message
+2022-07-14 09:38:48,744 WARNING Warning message
+2022-07-14 09:38:48,744 INFO Info message
+2022-07-14 09:38:48,744 ERROR Error message
+2022-07-14 09:38:48,744 INFO Info message
+2022-07-14 09:38:48,744 WARNING Warning message
+2022-07-14 09:38:48,744 ERROR Error message
+2022-07-14 09:38:48,744 WARNING Warning message
+2022-07-14 09:38:48,744 INFO Info message
+2022-07-14 09:38:48,745 ERROR Error message
+2022-07-14 09:38:48,745 CRITICAL Critical message
+2022-07-14 09:38:49,813 ERROR Error message
+2022-07-14 09:38:49,813 WARNING Warning message
+2022-07-14 09:38:49,813 INFO Info message
+2022-07-14 09:38:49,813 ERROR Error message
+2022-07-14 09:38:49,813 INFO Info message
+2022-07-14 09:38:49,813 WARNING Warning message
+2022-07-14 09:38:49,813 ERROR Error message
+2022-07-14 09:38:49,813 WARNING Warning message
+2022-07-14 09:38:49,813 INFO Info message
+2022-07-14 09:38:49,813 ERROR Error message
+2022-07-14 09:38:49,813 CRITICAL Critical message
+2022-07-14 09:38:55,856 ERROR Error message
+2022-07-14 09:38:55,856 WARNING Warning message
+2022-07-14 09:38:55,856 INFO Info message
+2022-07-14 09:38:55,856 ERROR Error message
+2022-07-14 09:38:55,856 INFO Info message
+2022-07-14 09:38:55,856 WARNING Warning message
+2022-07-14 09:38:55,856 ERROR Error message
+2022-07-14 09:38:55,856 WARNING Warning message
+2022-07-14 09:38:55,856 INFO Info message
+2022-07-14 09:38:55,856 ERROR Error message
+2022-07-14 09:38:55,856 INFO Info message
+2022-07-14 09:38:55,857 WARNING Warning message
+2022-07-14 09:38:55,857 ERROR Error message
+2022-07-14 09:38:55,857 WARNING Warning message
+2022-07-14 09:38:55,857 INFO Info message
+2022-07-14 09:38:55,857 ERROR Error message
+2022-07-14 09:38:55,857 INFO Info message
+2022-07-14 09:38:55,857 WARNING Warning message
+2022-07-14 09:38:55,857 ERROR Error message
+2022-07-14 09:38:55,857 WARNING Warning message
+2022-07-14 09:38:55,857 INFO Info message
+2022-07-14 09:38:55,857 ERROR Error message
+2022-07-14 09:38:55,857 INFO Info message
+2022-07-14 09:38:55,857 WARNING Warning message
+2022-07-14 09:38:55,857 ERROR Error message
+2022-07-14 09:38:55,857 WARNING Warning message
+2022-07-14 09:38:55,857 INFO Info message
+2022-07-14 09:38:55,857 ERROR Error message
+2022-07-14 09:38:55,857 INFO Info message
+2022-07-14 09:38:55,857 WARNING Warning message
+2022-07-14 09:38:55,857 ERROR Error message
+2022-07-14 09:38:55,858 WARNING Warning message
+2022-07-14 09:38:55,858 INFO Info message
+2022-07-14 09:38:55,858 ERROR Error message
+2022-07-14 09:38:55,858 INFO Info message
+2022-07-14 09:38:55,858 WARNING Warning message
+2022-07-14 09:38:55,858 ERROR Error message
+2022-07-14 09:38:55,858 WARNING Warning message
+2022-07-14 09:38:55,858 INFO Info message
+2022-07-14 09:38:55,858 ERROR Error message
+2022-07-14 09:38:55,858 INFO Info message
+2022-07-14 09:38:55,858 WARNING Warning message
+2022-07-14 09:38:55,858 ERROR Error message
+2022-07-14 09:38:55,858 WARNING Warning message
+2022-07-14 09:38:55,858 INFO Info message
+2022-07-14 09:38:55,858 ERROR Error message
+2022-07-14 09:38:55,858 INFO Info message
+2022-07-14 09:38:55,858 WARNING Warning message
+2022-07-14 09:38:55,858 ERROR Error message
+2022-07-14 09:38:55,859 WARNING Warning message
+2022-07-14 09:38:55,859 INFO Info message
+2022-07-14 09:38:55,859 ERROR Error message
+2022-07-14 09:38:55,859 INFO Info message
+2022-07-14 09:38:55,859 WARNING Warning message
+2022-07-14 09:38:55,859 ERROR Error message
+2022-07-14 09:38:55,859 WARNING Warning message
+2022-07-14 09:38:55,859 INFO Info message
+2022-07-14 09:38:55,859 ERROR Error message
+2022-07-14 09:38:55,859 INFO Info message
+2022-07-14 09:38:55,859 WARNING Warning message
+2022-07-14 09:38:55,859 ERROR Error message
+2022-07-14 09:38:55,859 WARNING Warning message
+2022-07-14 09:38:55,859 INFO Info message
+2022-07-14 09:38:55,859 ERROR Error message
+2022-07-14 09:38:55,859 INFO Info message
+2022-07-14 09:38:55,859 WARNING Warning message
+2022-07-14 09:38:55,859 ERROR Error message
+2022-07-14 09:38:55,859 WARNING Warning message
+2022-07-14 09:38:55,859 INFO Info message
+2022-07-14 09:38:55,860 ERROR Error message
+2022-07-14 09:38:55,860 INFO Info message
+2022-07-14 09:38:55,860 WARNING Warning message
+2022-07-14 09:38:55,860 ERROR Error message
+2022-07-14 09:38:55,860 WARNING Warning message
+2022-07-14 09:38:55,860 INFO Info message
+2022-07-14 09:38:55,860 ERROR Error message
+2022-07-14 09:38:55,860 INFO Info message
+2022-07-14 09:38:55,860 WARNING Warning message
+2022-07-14 09:38:55,860 ERROR Error message
+2022-07-14 09:38:55,860 WARNING Warning message
+2022-07-14 09:38:55,860 INFO Info message
+2022-07-14 09:38:55,860 ERROR Error message
+2022-07-14 09:38:55,860 INFO Info message
+2022-07-14 09:38:55,860 WARNING Warning message
+2022-07-14 09:38:55,860 ERROR Error message
+2022-07-14 09:38:55,860 WARNING Warning message
+2022-07-14 09:38:55,860 INFO Info message
+2022-07-14 09:38:55,861 ERROR Error message
+2022-07-14 09:38:55,861 INFO Info message
+2022-07-14 09:38:55,861 WARNING Warning message
+2022-07-14 09:38:55,861 ERROR Error message
+2022-07-14 09:38:55,861 WARNING Warning message
+2022-07-14 09:38:55,861 INFO Info message
+2022-07-14 09:38:55,861 ERROR Error message
+2022-07-14 09:38:55,861 INFO Info message
+2022-07-14 09:38:55,861 WARNING Warning message
+2022-07-14 09:38:55,861 ERROR Error message
+2022-07-14 09:38:55,861 WARNING Warning message
+2022-07-14 09:38:55,861 INFO Info message
+2022-07-14 09:38:55,861 ERROR Error message
+2022-07-14 09:38:55,861 CRITICAL Critical message
+2022-07-14 10:11:14,309 ERROR Updated Error message
+2022-07-14 10:11:14,309 WARNING Updated Warning message
+2022-07-14 10:11:14,309 INFO Updated Info message
+2022-07-14 10:11:14,309 ERROR Updated Error message
+2022-07-14 10:11:14,309 INFO Updated Info message
+2022-07-14 10:11:14,309 WARNING Updated Warning message
+2022-07-14 10:11:14,309 ERROR Updated Error message
+2022-07-14 10:11:14,309 WARNING Updated Warning message
+2022-07-14 10:11:14,309 INFO Updated Info message
+2022-07-14 10:11:14,309 ERROR Updated Error message
+2022-07-14 10:11:14,309 INFO Updated Info message
+2022-07-14 10:11:14,309 WARNING Updated Warning message
+2022-07-14 10:11:14,309 ERROR Updated Error message
+2022-07-14 10:11:14,309 WARNING Updated Warning message
+2022-07-14 10:11:14,309 INFO Updated Info message
+2022-07-14 10:11:14,309 ERROR Updated Error message
+2022-07-14 10:11:14,309 INFO Updated Info message
+2022-07-14 10:11:14,309 WARNING Updated Warning message
+2022-07-14 10:11:14,309 ERROR Updated Error message
+2022-07-14 10:11:14,309 WARNING Updated Warning message
+2022-07-14 10:11:14,309 INFO Updated Info message
+2022-07-14 10:11:14,309 ERROR Updated Error message
+2022-07-14 10:11:14,309 INFO Updated Info message
+2022-07-14 10:11:14,309 WARNING Updated Warning message
+2022-07-14 10:11:14,309 ERROR Updated Error message
+2022-07-14 10:11:14,309 WARNING Updated Warning message
+2022-07-14 10:11:14,309 INFO Updated Info message
+2022-07-14 10:11:14,309 ERROR Updated Error message
+2022-07-14 10:11:14,309 INFO Updated Info message
+2022-07-14 10:11:14,309 WARNING Updated Warning message
+2022-07-14 10:11:14,309 ERROR Updated Error message
+2022-07-14 10:11:14,309 WARNING Updated Warning message
+2022-07-14 10:11:14,309 INFO Updated Info message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 WARNING Updated Warning message
+2022-07-14 10:11:14,312 INFO Updated Info message
+2022-07-14 10:11:14,312 ERROR Updated Error message
+2022-07-14 10:11:14,312 CRITICAL Updated Critical message
